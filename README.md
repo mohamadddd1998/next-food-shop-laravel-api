@@ -6,7 +6,7 @@ STEP 1 : <br />
 STEP 2 : <br />
 1-in the laravel-api folder in the termial enter composer i to add .vendor <br />
 2-open xammp software and start aphace and mySQL <br />
-3-in the laravel-api folder in the termial entert php artisan serve <br />
+3-in the laravel-api folder in the termial enter php artisan serve <br />
 
 STEP 3 : <br />
 1-in your browser insert this url : http://localhost/phpmyadmin/ <br />
